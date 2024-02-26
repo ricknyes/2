@@ -1,5 +1,4 @@
 telebot
 asyncio
 schedule
-threading
 shutil
